@@ -1,4 +1,5 @@
-# WIP
-
 # Air-Quality-EDA
 This repository contains an exploratory data analysis (EDA) project focused on understanding air quality trends and their relationship with weather conditions. Using the Air Quality Dataset from the UCI Machine Learning Repository, the project applies data cleaning, visualization, and statistical techniques to uncover patterns and insights.
+
+## Intentions:
+The purpose of this repository is primarily educational and serves as a learning exercise in data analysis and visualization. It represents an opportunity to practice working with real-world datasets, applying various exploratory techniques, and experimenting with methods to identify meaningful patterns. This project is not intended to provide definitive conclusions but rather to develop and refine analytical skills while exploring a fascinating topic.
